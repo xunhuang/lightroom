@@ -1,0 +1,12 @@
+s = {
+	id = "757780A5-2936-4530-A5AD-0DC747EA4263",
+	internalName = "travel13x11",
+	title = "travel13x11",
+	type = "layoutStyle",
+	value = {
+		paperId = "13x11-blurb",
+		resources = "travel13x11",
+		styleName = "travel",
+		templateId = "5A31F2C2-EFBA-4BDF-AA8A-4E1506DF5597",
+	},
+}

@@ -1,0 +1,12 @@
+s = {
+	id = "0BE7F379-3DC2-422B-AC14-50FA53C76C83",
+	internalName = "clean13x11",
+	title = "clean13x11",
+	type = "layoutStyle",
+	value = {
+		paperId = "13x11-blurb",
+		resources = "clean13x11",
+		styleName = "clean",
+		templateId = "A6B33CF4-0FA5-4F86-9A95-FED959EEA7B2",
+	},
+}

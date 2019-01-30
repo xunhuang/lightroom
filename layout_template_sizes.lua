@@ -53,11 +53,11 @@ s = {
     id = "10x8-blurb"
   },
   {
-    width = 909,
-    height = 783,
+    width = 1152,
+    height = 864,
     directory = "13x11-blurb",
-    title = ZSTR("$$$/Layout/TemplateSizes/13x11=Large Landscape"),
-    title_metric = ZSTR("$$$/Layout/TemplateSizes/13x11_metric=Large Landscape 33x28 cm"),
+    title = ZSTR("$$$/Layout/TemplateSizes/13x11=Wilson Large Landscape new 16x12"),
+    title_metric = ZSTR("$$$/Layout/TemplateSizes/13x11_metric=Wilson Large Landscape 33x28 cm"),
     sizeStr = ZSTR("$$$/Layout/TemplateSizes/Dimensions/13x11=13 x 11 in (33 x 28 cm)"),
     imageWrap = true,
     softcover = false,

@@ -1,11 +1,11 @@
 local L0_0, L1_1
 L0_0 = {}
-L0_0.actualBookHeight = 783
-L0_0.actualBookWidth = 909
+L0_0.actualBookHeight = 864
+L0_0.actualBookWidth = 1152
 L1_1 = {}
 L0_0.backgrounds = L1_1
-L0_0.bookHeight = 783
-L0_0.bookWidth = 909
+L0_0.bookHeight = 864
+L0_0.bookWidth = 1152
 L1_1 = {}
 L1_1.hardcover_imagewrap = {
   {
@@ -1951,9 +1951,9 @@ L1_1 = {
       pageKey = "c-1-a"
     },
     name = "page_1",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "8D877AF0-EE48-4ECC-837B-460401826AB2",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_1_preview.jpg",
     title = "creative13x11 1"
   },
@@ -2004,9 +2004,9 @@ L1_1 = {
       pageKey = "c-1-b"
     },
     name = "page_2",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "FE0B63D4-5192-4A0A-A72A-E92861C3BCF7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_2_preview.jpg",
     title = "creative13x11 2"
   },
@@ -2057,9 +2057,9 @@ L1_1 = {
       pageKey = "c-1-c"
     },
     name = "page_3",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "51D2BB99-E333-4B45-9B77-A3BFFCDEB9CD",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_3_preview.jpg",
     title = "creative13x11 3"
   },
@@ -2124,9 +2124,9 @@ L1_1 = {
       pageKey = "c-2-a"
     },
     name = "page_4",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "45B52541-F412-4BEE-8B2B-D51D8DE66F2A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_4_preview.jpg",
     title = "creative13x11 4"
   },
@@ -2194,9 +2194,9 @@ L1_1 = {
       pageKey = "c-1-d"
     },
     name = "page_5",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "EDCF56FD-EF25-432C-A6DF-D5B3FDD52D31",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_5_preview.jpg",
     title = "creative13x11 5"
   },
@@ -2247,9 +2247,9 @@ L1_1 = {
       pageKey = "c-1-e"
     },
     name = "page_6",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "86371DB5-3F14-4EEA-8D08-F12BCA30CE44",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_6_preview.jpg",
     title = "creative13x11 6"
   },
@@ -2300,9 +2300,9 @@ L1_1 = {
       pageKey = "c-1-f"
     },
     name = "page_7",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "6C64CEED-1859-4A15-AAA0-D44D5BA97F99",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_7_preview.jpg",
     title = "creative13x11 7"
   },
@@ -2353,9 +2353,9 @@ L1_1 = {
       pageKey = "c-1-g"
     },
     name = "page_8",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "FABA37AB-745F-45BE-AA3F-D14017299351",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_8_preview.jpg",
     title = "creative13x11 8"
   },
@@ -2406,9 +2406,9 @@ L1_1 = {
       pageKey = "c-1-h"
     },
     name = "page_9",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "148F9D80-1F8C-4B53-A142-BB9C06C072FA",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_9_preview.jpg",
     title = "creative13x11 9"
   },
@@ -2473,9 +2473,9 @@ L1_1 = {
       pageKey = "c-2-b"
     },
     name = "page_10",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "8494E558-409A-48F8-AD0F-D10E448F49DA",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_10_preview.jpg",
     title = "creative13x11 10"
   },
@@ -2543,9 +2543,9 @@ L1_1 = {
       pageKey = "c-1-j"
     },
     name = "page_11",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "1F986DA8-5FE1-49F2-ADE1-87E48C931BCD",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_11_preview.jpg",
     title = "creative13x11 11"
   },
@@ -2596,9 +2596,9 @@ L1_1 = {
       pageKey = "c-1-i"
     },
     name = "page_12",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "7857D0C0-8418-4A2D-8237-8FD0F609AF49",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_12_preview.jpg",
     title = "creative13x11 12"
   },
@@ -2649,9 +2649,9 @@ L1_1 = {
       pageKey = "c-1-k"
     },
     name = "page_13",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C723AAFE-EA63-4717-A528-B79E3C526ED0",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_13_preview.jpg",
     title = "creative13x11 13"
   },
@@ -2702,9 +2702,9 @@ L1_1 = {
       pageKey = "c-1-l"
     },
     name = "page_14",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "40E371BD-73CF-46A4-AE13-2D88DE87034C",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_14_preview.jpg",
     title = "creative13x11 14"
   },
@@ -2755,9 +2755,9 @@ L1_1 = {
       pageKey = "c-1-m"
     },
     name = "page_15",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "99193CC3-BC51-432E-8600-E0473D6B84A7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_15_preview.jpg",
     title = "creative13x11 15"
   },
@@ -2822,9 +2822,9 @@ L1_1 = {
       pageKey = "c-2-c"
     },
     name = "page_16",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "5B47FDBA-6E3B-46EE-943A-5D28450CA36E",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_16_preview.jpg",
     title = "creative13x11 16"
   },
@@ -2892,9 +2892,9 @@ L1_1 = {
       pageKey = "c-1-o"
     },
     name = "page_17",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "1CD58E52-FBF4-4B06-AE29-35E6594F4209",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_17_preview.jpg",
     title = "creative13x11 17"
   },
@@ -2945,9 +2945,9 @@ L1_1 = {
       pageKey = "c-1-n"
     },
     name = "page_18",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "AED4A6FB-DA39-4695-903B-3E6184C6FB07",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_18_preview.jpg",
     title = "creative13x11 18"
   },
@@ -3509,9 +3509,9 @@ L1_1 = {
       pageKey = "c-lots-a"
     },
     name = "page_19",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "70AB5988-0C57-4D66-8D23-EC96E8BD642F",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_19_preview.jpg",
     title = "Creative13x11B 19"
   },
@@ -4023,9 +4023,9 @@ L1_1 = {
       textIndex = 1
     },
     name = "page_20",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "6136268E-7348-4F45-AB91-117B4E3954B7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_20_preview.jpg",
     title = "Creative13x11B 20"
   },
@@ -4430,9 +4430,9 @@ L1_1 = {
       pageKey = "c-lots-g"
     },
     name = "page_21",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "8673380F-0715-4394-BF0B-CCEEFBF6B49A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_21_preview.jpg",
     title = "Creative13x11B 21"
   },
@@ -4445,7 +4445,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 1174.4415283203,
             x = 321.779296875,
             y = 0
@@ -4518,9 +4518,9 @@ L1_1 = {
     },
     isSpread = true,
     name = "page_24",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "30FAF383-8FDB-46EB-903C-638830768311",
-    pageWidth = 1818,
+    pageWidth = 2304,
     previewName = "page_24_preview.jpg",
     title = "Creative13x11B 24"
   },
@@ -5031,9 +5031,9 @@ L1_1 = {
       pageKey = "c-lots-d"
     },
     name = "page_25",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C15B1C78-7D4E-4CFA-BC09-FDA15BDDC798",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_25_preview.jpg",
     title = "Creative13x11B 25"
   },
@@ -5084,9 +5084,9 @@ L1_1 = {
       pageKey = "c-1-p"
     },
     name = "page_26",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "98BD6ED2-D89E-4C89-B6F2-1F4EFFB418A9",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_26_preview.jpg",
     title = "Creative13x11B 26"
   },
@@ -5137,9 +5137,9 @@ L1_1 = {
       pageKey = "c-1-q"
     },
     name = "page_27",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "0AF3FD00-235E-4EEB-A99B-AAD2A7876CDD",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_27_preview.jpg",
     title = "Creative13x11B 27"
   },
@@ -5232,9 +5232,9 @@ L1_1 = {
       pageKey = "c-4-a"
     },
     name = "page_28",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "9F6AA018-D985-4FE3-85E4-C146B973359F",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_28_preview.jpg",
     title = "Creative13x11B 28"
   },
@@ -5410,9 +5410,9 @@ L1_1 = {
       pageKey = "c-3-b"
     },
     name = "page_29",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "D8476B35-495A-405B-AEF9-D28128D848C6",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_29_preview.jpg",
     title = "Creative13x11B 29"
   },
@@ -5506,9 +5506,9 @@ L1_1 = {
       pageKey = "c-4-a"
     },
     name = "page_30",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "7DA7D40D-FE0B-4811-912F-FF5182C9BECF",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_30_preview.jpg",
     title = "Creative13x11B 30"
   },
@@ -5643,9 +5643,9 @@ L1_1 = {
       pageKey = "c-6-a"
     },
     name = "page_31",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "970540B0-5EC9-497A-91DF-B7F558A3A9A7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_31_preview.jpg",
     title = "Creative13x11B 31"
   },
@@ -5663,7 +5663,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 724.31994628906,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 29.340179443359
           },
@@ -6068,9 +6068,9 @@ L1_1 = {
       pageKey = "c-lots-c"
     },
     name = "page_32",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "92A61511-E76C-472C-A0BF-B688D9AC2856",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_32_preview.jpg",
     title = "Creative13x11B 32"
   },
@@ -6084,7 +6084,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 337.24978637695,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 222.69454956055
           },
@@ -6102,7 +6102,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 340.55999755859,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 221.22027587891
           },
@@ -6121,9 +6121,9 @@ L1_1 = {
       pageKey = "c-1-r"
     },
     name = "page_33",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "32C4932D-BBE0-4945-B771-856DE11CB8A1",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_33_preview.jpg",
     title = "Creative13x11B 33"
   },
@@ -6169,7 +6169,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 341.2799987793,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 220.8606262207
           },
@@ -6188,9 +6188,9 @@ L1_1 = {
       pageKey = "c-2-d"
     },
     name = "page_34",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "BCE48B3C-80E8-41C6-81FA-D72F3CE55192",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_34_preview.jpg",
     title = "Creative13x11B 34"
   },
@@ -6250,7 +6250,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 341.2799987793,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 220.8606262207
           },
@@ -6269,9 +6269,9 @@ L1_1 = {
       pageKey = "c-3-a"
     },
     name = "page_35",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "5237CF85-155F-45A4-B8F0-F5F8F2F1E27A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_35_preview.jpg",
     title = "Creative13x11B 35"
   }

@@ -1,11 +1,11 @@
 local L0_0, L1_1
 L0_0 = {}
-L0_0.actualBookHeight = 783
-L0_0.actualBookWidth = 909
+L0_0.actualBookHeight = 864
+L0_0.actualBookWidth = 1152
 L1_1 = {}
 L0_0.backgrounds = L1_1
-L0_0.bookHeight = 783
-L0_0.bookWidth = 909
+L0_0.bookHeight = 864
+L0_0.bookWidth = 1152
 L1_1 = {}
 L1_1.hardcover_imagewrap = {
   {
@@ -1246,9 +1246,9 @@ L1_1 = {
       pageKey = "p-4-e"
     },
     name = "page_1",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "9E80BB87-3BCE-4E40-B27E-07D852580612",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_1_preview.jpg",
     title = "portfolio13x11 1"
   },
@@ -1375,9 +1375,9 @@ L1_1 = {
       pageKey = "p-4-f"
     },
     name = "page_2",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "B218CD1B-6614-4CF7-9010-80713AFF7EB7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_2_preview.jpg",
     title = "portfolio13x11 2"
   },
@@ -1476,9 +1476,9 @@ L1_1 = {
       pageKey = "p-3-f"
     },
     name = "page_3",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E77DF6B6-5246-45DF-87AF-405B6B4F6233",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_3_preview.jpg",
     title = "portfolio13x11 3"
   },
@@ -1577,9 +1577,9 @@ L1_1 = {
       pageKey = "p-3-g"
     },
     name = "page_4",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E93B121C-2101-4BAC-B338-DB05B32F0D5D",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_4_preview.jpg",
     title = "portfolio13x11 4"
   },
@@ -1627,9 +1627,9 @@ L1_1 = {
       priority = 3
     },
     name = "page_5",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "136453D8-59E5-46D7-8BDF-514775982D81",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_5_preview.jpg",
     title = "portfolio13x11 5"
   },
@@ -1677,9 +1677,9 @@ L1_1 = {
       priority = 3
     },
     name = "page_6",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "4484F40B-62E8-4C56-BDA8-68CA6B7D3C25",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_6_preview.jpg",
     title = "portfolio13x11 6"
   },
@@ -1722,9 +1722,9 @@ L1_1 = {
       pageKey = "p-1-f"
     },
     name = "page_7",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "5487BDA7-FBD4-4625-9215-E43D296A62B4",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_7_preview.jpg",
     title = "portfolio13x11 7"
   },
@@ -1738,7 +1738,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 391.49978637695,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 391.50021362305
           },
@@ -1752,7 +1752,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 391.49978637695,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -1767,9 +1767,9 @@ L1_1 = {
       pageKey = "p-2-f"
     },
     name = "page_11",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E0585CB0-E885-4C50-BC2C-33F0D0B35650",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_11_preview.jpg",
     title = "portfolio13x11 11"
   },
@@ -1868,9 +1868,9 @@ L1_1 = {
       pageKey = "p-3-d"
     },
     name = "page_12",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "DB828D4C-DBAB-40E1-9AD8-317C048E9008",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_12_preview.jpg",
     title = "portfolio13x11 12"
   },
@@ -1969,9 +1969,9 @@ L1_1 = {
       pageKey = "p-3-e"
     },
     name = "page_13",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "B020EB0D-EF99-45B7-AF2D-15641395E516",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_13_preview.jpg",
     title = "portfolio13x11 13"
   },
@@ -1984,7 +1984,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 303,
             x = 0,
             y = 0
@@ -1998,7 +1998,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 303,
             x = 606,
             y = 0
@@ -2012,7 +2012,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 303,
             x = 303,
             y = 0
@@ -2028,9 +2028,9 @@ L1_1 = {
       pageKey = "p-3-a"
     },
     name = "page_15",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "82083E55-177D-4E09-9043-FCDB66D28188",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_15_preview.jpg",
     title = "portfolio13x11 15"
   },
@@ -2043,7 +2043,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 295.56628417969,
             x = 0,
             y = 0
@@ -2057,7 +2057,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 295.56628417969,
             x = 306.716796875,
             y = 0
@@ -2071,7 +2071,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 295.56628417969,
             x = 613.43371582031,
             y = 0
@@ -2087,9 +2087,9 @@ L1_1 = {
       pageKey = "p-3-b"
     },
     name = "page_16",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "633B9854-6824-443C-9CE7-D02357CFBA0A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_16_preview.jpg",
     title = "portfolio13x11 16"
   },
@@ -2495,9 +2495,9 @@ L1_1 = {
       pageKey = "p-30-a"
     },
     name = "page_17",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "DB5F69EB-83BB-4133-824B-722B897E4618",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_17_preview.jpg",
     title = "portfolio13x11 17"
   },
@@ -2511,7 +2511,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 258.33358764648,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -2525,7 +2525,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 258.33358764648,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 262.33340454102
           },
@@ -2539,7 +2539,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 258.33358764648,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 524.66641235352
           },
@@ -2554,9 +2554,9 @@ L1_1 = {
       pageKey = "p-3-c"
     },
     name = "page_18",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "02CC943D-3C10-4F6A-B760-ABAA419FF62C",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_18_preview.jpg",
     title = "portfolio13x11 18"
   },
@@ -2570,7 +2570,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 194.66619873047,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -2584,7 +2584,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 194.66619873047,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 196.11114501953
           },
@@ -2598,7 +2598,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 194.66619873047,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 392.22247314453
           },
@@ -2612,7 +2612,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 194.66619873047,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 588.33380126953
           },
@@ -2627,9 +2627,9 @@ L1_1 = {
       pageKey = "p-4-d"
     },
     name = "page_19",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "7E3D9352-9DF2-405B-A316-8017C3983E01",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_19_preview.jpg",
     title = "portfolio13x11 19"
   }

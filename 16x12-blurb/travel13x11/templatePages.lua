@@ -1,7 +1,7 @@
 local L0_0, L1_1
 L0_0 = {}
-L0_0.actualBookHeight = 783
-L0_0.actualBookWidth = 909
+L0_0.actualBookHeight = 864
+L0_0.actualBookWidth = 1152
 L1_1 = {
   {
     {
@@ -15,7 +15,7 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 450.71997070312,
             x = 0,
             y = 0
@@ -36,9 +36,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_1",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "818422E9-930C-46D7-B83A-3558A6FF7CEB",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_1_preview.jpg",
     title = "travel13x11 1"
   },
@@ -54,8 +54,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -75,9 +75,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_20",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "CDB29913-4648-4D70-AAF3-8BCCC484B7EC",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_20_preview.jpg",
     title = "travel13x11 20"
   },
@@ -93,8 +93,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -114,9 +114,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_21",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "97CD435B-621B-48BF-831D-0EC919AE7EA2",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_21_preview.jpg",
     title = "travel13x11 21"
   },
@@ -132,8 +132,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -153,9 +153,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_22",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "8DD736B6-E6AC-45B5-B4D6-57B96AC66B36",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_22_preview.jpg",
     title = "travel13x11 22"
   },
@@ -192,9 +192,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_23",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "6D21C4D2-A07B-4EFB-972A-35FA65CBAF1D",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_23_preview.jpg",
     title = "travel13x11 23"
   },
@@ -231,9 +231,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_24",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "4BC00664-C425-4757-9A37-5A76D3EBE4EE",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_24_preview.jpg",
     title = "travel13x11 24"
   },
@@ -249,8 +249,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -270,9 +270,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_25",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "0968D90C-BF40-4889-8E39-A8BEDC9128E4",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_25_preview.jpg",
     title = "travel13x11 25"
   },
@@ -288,7 +288,7 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 455.51998901367,
             x = 0,
             y = 0
@@ -309,9 +309,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_26",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "000C7D74-659C-418D-89AF-30934B18D7E2",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_26_preview.jpg",
     title = "travel13x11 26"
   },
@@ -327,7 +327,7 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 464.39999389648,
             x = 0,
             y = 0
@@ -348,9 +348,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_27",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "35869651-EFA7-4076-9E89-3D9A25494AF1",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_27_preview.jpg",
     title = "travel13x11 27"
   },
@@ -387,9 +387,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_41",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "F5BB302A-4DDE-4C8E-86E3-ADF0C9BBA425",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_41_preview.jpg",
     title = "travel13x11 41"
   },
@@ -426,9 +426,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_42",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "7DD31604-2994-401F-869A-C826C5796677",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_42_preview.jpg",
     title = "travel13x11 42"
   },
@@ -445,7 +445,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 728.88000488281,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 27.059463500977
           },
@@ -465,9 +465,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_43",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "8FFC43FA-547D-4D29-8524-6CB412EB0F23",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_43_preview.jpg",
     title = "travel13x11 43"
   },
@@ -483,8 +483,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -504,9 +504,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_44",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "D8E5BE21-C22E-4304-AA31-2070B85C662C",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_44_preview.jpg",
     title = "travel13x11 44"
   },
@@ -523,7 +523,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 557.52001953125,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -543,9 +543,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_45",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "F7D9A71A-E588-43C0-9768-CD320CDCBA6B",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_45_preview.jpg",
     title = "travel13x11 45"
   },
@@ -561,8 +561,8 @@ L1_1 = {
           topPad = 0,
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -582,16 +582,16 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_46",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "062012C7-47D1-4994-AF50-695F11206A74",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_46_preview.jpg",
     title = "travel13x11 46"
   }
 }
 L0_0.backgrounds = L1_1
-L0_0.bookHeight = 783
-L0_0.bookWidth = 909
+L0_0.bookHeight = 864
+L0_0.bookWidth = 1152
 L1_1 = {}
 L1_1.hardcover_imagewrap = {
   {
@@ -3418,8 +3418,8 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -3476,9 +3476,9 @@ L1_1 = {
       pageKey = "t-4-a"
     },
     name = "page_2",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "04A14861-676E-431D-B7C5-EDE567619683",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_2_preview.jpg",
     title = "travel13x11 2"
   },
@@ -3577,9 +3577,9 @@ L1_1 = {
       pageKey = "t-6-d"
     },
     name = "page_3",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "35587D6C-DB6E-4BD5-BC3B-58AC610078BD",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_3_preview.jpg",
     title = "travel13x11 3"
   },
@@ -3592,7 +3592,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 0,
             y = 0
@@ -3626,9 +3626,9 @@ L1_1 = {
       pageKey = "t-2-c"
     },
     name = "page_4",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "938D1FF8-9514-43B0-8A38-E5E200A6E4DE",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_4_preview.jpg",
     title = "travel13x11 4"
   },
@@ -3641,7 +3641,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 321.69592285156,
             y = 0
@@ -3675,9 +3675,9 @@ L1_1 = {
       pageKey = "t-2-d"
     },
     name = "page_5",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E044E3BC-1259-4817-83F0-98F6D4BDC9A9",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_5_preview.jpg",
     title = "travel13x11 5"
   },
@@ -3690,8 +3690,8 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -3724,9 +3724,9 @@ L1_1 = {
       pageKey = "t-2-a"
     },
     name = "page_6",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C7F68E37-54A0-44FB-BA96-B4D756EF9CEF",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_6_preview.jpg",
     title = "travel13x11 6"
   },
@@ -3739,8 +3739,8 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
-            width = 909,
+            height = 864,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -3773,9 +3773,9 @@ L1_1 = {
       pageKey = "t-2-b"
     },
     name = "page_7",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "61AFF9B8-49A5-41D2-9DDD-B7A5B7276547",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_7_preview.jpg",
     title = "travel13x11 7"
   },
@@ -3852,9 +3852,9 @@ L1_1 = {
       pageKey = "t-2-e"
     },
     name = "page_8",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "4DCF2ED8-2C94-4E08-8961-13155B765698",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_8_preview.jpg",
     title = "travel13x11 8"
   },
@@ -3931,9 +3931,9 @@ L1_1 = {
       pageKey = "t-2-f"
     },
     name = "page_9",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "9BCEB6A7-460D-4259-80DF-FEDD03BA49C2",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_9_preview.jpg",
     title = "travel13x11 9"
   },
@@ -3993,9 +3993,9 @@ L1_1 = {
       pageKey = "t-2-hl"
     },
     name = "page_10",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "DB531518-EAA8-42FE-B7DB-3280D6F8179F",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_10_preview.jpg",
     title = "travel13x11 10"
   },
@@ -4055,9 +4055,9 @@ L1_1 = {
       pageKey = "t-2-hr"
     },
     name = "page_11",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "98B022D4-7511-4F36-B733-344FBC54F811",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_11_preview.jpg",
     title = "travel13x11 11"
   },
@@ -4070,7 +4070,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 0,
             y = 0
@@ -4132,9 +4132,9 @@ L1_1 = {
       pageKey = "t-4-b"
     },
     name = "page_12",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "373CBD84-D240-4786-9ADA-C4F8A5703CB5",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_12_preview.jpg",
     title = "travel13x11 12"
   },
@@ -4147,7 +4147,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 321.69592285156,
             y = 0
@@ -4209,9 +4209,9 @@ L1_1 = {
       pageKey = "t-4-c"
     },
     name = "page_13",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "70DCC25B-C1D2-4238-8001-1497A931844F",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_13_preview.jpg",
     title = "travel13x11 13"
   },
@@ -4224,7 +4224,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 0,
             y = 0
@@ -4272,9 +4272,9 @@ L1_1 = {
       pageKey = "t-3-a"
     },
     name = "page_14",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "3DEB5BCD-15B5-488B-B01F-6E33F0E832F2",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_14_preview.jpg",
     title = "travel13x11 14"
   },
@@ -4287,7 +4287,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 321.69592285156,
             y = 0
@@ -4335,9 +4335,9 @@ L1_1 = {
       pageKey = "t-3-b"
     },
     name = "page_15",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E5AA8182-F3AA-4FE8-BEF8-9B28ADE5B624",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_15_preview.jpg",
     title = "travel13x11 15"
   },
@@ -4446,9 +4446,9 @@ L1_1 = {
       pageKey = "t-4-e"
     },
     name = "page_16",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "362B1DEC-B6F7-4E40-AC49-777F9DF6FDF6",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_16_preview.jpg",
     title = "travel13x11 16"
   },
@@ -4557,9 +4557,9 @@ L1_1 = {
       pageKey = "t-4-g"
     },
     name = "page_17",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "490BDD30-BEAC-4B28-BE39-F8D4A2A4C120",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_17_preview.jpg",
     title = "travel13x11 17"
   },
@@ -4573,7 +4573,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 273.33361816406,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 509.66638183594
           },
@@ -4587,7 +4587,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 273.33361816406,
-            width = 909,
+            width = 1152,
             x = 0,
             y = 0
           },
@@ -4619,9 +4619,9 @@ L1_1 = {
       pageKey = "t-2-g"
     },
     name = "page_19",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C8B66F38-E0EC-40C7-98CA-798AE8303AC1",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_19_preview.jpg",
     title = "travel13x11 19"
   },
@@ -4699,9 +4699,9 @@ L1_1 = {
       pageKey = "t-3-c"
     },
     name = "page_28",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "9F741841-4D99-4043-8771-9779F357BA87",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_28_preview.jpg",
     title = "travel13x11 28"
   },
@@ -4779,9 +4779,9 @@ L1_1 = {
       pageKey = "t-3-d"
     },
     name = "page_29",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "EDF3C462-B635-4208-86EE-41E40DFCA21A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_29_preview.jpg",
     title = "travel13x11 29"
   },
@@ -4893,9 +4893,9 @@ L1_1 = {
       pageKey = "t-3-f1"
     },
     name = "page_30",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "A1A5FCEB-F808-4773-9B60-A779AC358EFC",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_30_preview.jpg",
     title = "travel13x11 30"
   },
@@ -5007,9 +5007,9 @@ L1_1 = {
       pageKey = "t-3-f2"
     },
     name = "page_31",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "DD803237-BF1E-4ADB-9FEA-5A2C3D40BBBA",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_31_preview.jpg",
     title = "travel13x11 31"
   },
@@ -5156,9 +5156,9 @@ L1_1 = {
       pageKey = "t-4-f"
     },
     name = "page_32",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "4F0193D3-51E5-47CC-A42A-D401B8D9BB91",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_32_preview.jpg",
     title = "travel13x11 32"
   },
@@ -5229,9 +5229,9 @@ L1_1 = {
       pageKey = "t-4-d1L"
     },
     name = "page_33",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C9A85823-A456-48E6-9D2C-027D89C8AC85",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_33_preview.jpg",
     title = "travel13x11 33"
   },
@@ -5302,9 +5302,9 @@ L1_1 = {
       pageKey = "t-4-d1R"
     },
     name = "page_34",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "2F733357-EFB5-400D-BE80-28AF26198FBC",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_34_preview.jpg",
     title = "travel13x11 34"
   },
@@ -5375,9 +5375,9 @@ L1_1 = {
       pageKey = "t-4-d2L"
     },
     name = "page_35",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E9630AFD-8199-4045-A69C-FA76F157B4C3",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_35_preview.jpg",
     title = "travel13x11 35"
   },
@@ -5448,9 +5448,9 @@ L1_1 = {
       pageKey = "t-4-d2R"
     },
     name = "page_36",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "1D9BF87A-4476-4883-BB80-B7B810A9EBD7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_36_preview.jpg",
     title = "travel13x11 36"
   }

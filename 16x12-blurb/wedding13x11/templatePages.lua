@@ -1,7 +1,7 @@
 local L0_0, L1_1
 L0_0 = {}
-L0_0.actualBookHeight = 783
-L0_0.actualBookWidth = 909
+L0_0.actualBookHeight = 864
+L0_0.actualBookWidth = 1152
 L1_1 = {
   {
     {
@@ -32,9 +32,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_14",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "27C33C21-2BCD-4E86-83F4-D962030D44ED",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_14_preview.jpg",
     title = "wedding13x11 14"
   },
@@ -67,9 +67,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_15",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "FFEE57CD-9F6F-47BF-A90E-CD676152AFB7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_15_preview.jpg",
     title = "wedding13x11 15"
   },
@@ -102,9 +102,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_16",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "73290E11-601A-4CB5-9E74-87012ED32599",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_16_preview.jpg",
     title = "wedding13x11 16"
   },
@@ -137,9 +137,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_17",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "07307A5A-FCCC-498E-A969-8FC383C440CA",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_17_preview.jpg",
     title = "wedding13x11 17"
   },
@@ -172,9 +172,9 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_18",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "3CDA659B-31FE-4CF7-AB6B-4211511EB39B",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_18_preview.jpg",
     title = "wedding13x11 18"
   },
@@ -207,16 +207,16 @@ L1_1 = {
       pageType = "background"
     },
     name = "background_page_19",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "F1168CC0-A3F9-462D-94C9-C3715CCD8BCB",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "background_page_19_preview.jpg",
     title = "wedding13x11 19"
   }
 }
 L0_0.backgrounds = L1_1
-L0_0.bookHeight = 783
-L0_0.bookWidth = 909
+L0_0.bookHeight = 864
+L0_0.bookWidth = 1152
 L1_1 = {}
 L1_1.hardcover_imagewrap = {
   {
@@ -783,9 +783,9 @@ L1_1 = {
       pageKey = "w-3-a"
     },
     name = "page_1",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "6E12B391-D0A5-45EE-8D29-1FCC8975228A",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_1_preview.jpg",
     title = "wedding13x11 1"
   },
@@ -885,9 +885,9 @@ L1_1 = {
       textIndex = 2
     },
     name = "page_2",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "4BAAEEBF-052A-4D9A-A28F-D8C519E7D326",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_2_preview.jpg",
     title = "wedding13x11 2"
   },
@@ -986,9 +986,9 @@ L1_1 = {
       pageKey = "w-6-a"
     },
     name = "page_3",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "D8A29485-4794-4917-A23A-80292E61D48E",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_3_preview.jpg",
     title = "wedding13x11 3"
   },
@@ -1087,9 +1087,9 @@ L1_1 = {
       pageKey = "w-6-b"
     },
     name = "page_4",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "E97D0663-9F53-4BAD-BE1D-E9FCD577442E",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_4_preview.jpg",
     title = "wedding13x11 4"
   },
@@ -1160,9 +1160,9 @@ L1_1 = {
       pageKey = "w-4-a"
     },
     name = "page_5",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "B0A1D6FB-EB10-44EC-A3A7-99FEACDB4E78",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_5_preview.jpg",
     title = "wedding13x11 5"
   },
@@ -1233,9 +1233,9 @@ L1_1 = {
       pageKey = "w-4-d1"
     },
     name = "page_6",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "FA4F82ED-B57D-41A1-8423-56409877AA11",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_6_preview.jpg",
     title = "wedding13x11 6"
   },
@@ -1306,9 +1306,9 @@ L1_1 = {
       pageKey = "w-4-d2"
     },
     name = "page_7",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "A44465BE-9F45-4907-8D2E-A03374402F2B",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_7_preview.jpg",
     title = "wedding13x11 7"
   },
@@ -1321,7 +1321,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = -2.1884765625,
             y = 0
@@ -1379,9 +1379,9 @@ L1_1 = {
       pageKey = "w-4-b"
     },
     name = "page_8",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "D60E4AA9-0B29-430A-A777-57EFD3CF7AD5",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_8_preview.jpg",
     title = "wedding13x11 8"
   },
@@ -1394,7 +1394,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 587.30407714844,
             x = 321.69592285156,
             y = 0
@@ -1452,9 +1452,9 @@ L1_1 = {
       pageKey = "w-4-c"
     },
     name = "page_9",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "5C3594F2-B85D-42E7-8D4E-2D5D136C8BFB",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_9_preview.jpg",
     title = "wedding13x11 9"
   },
@@ -1514,9 +1514,9 @@ L1_1 = {
       pageKey = "w-2-j"
     },
     name = "page_10",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "B42688D8-C319-4F95-B89B-DD8AA6A5F851",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_10_preview.jpg",
     title = "wedding13x11 10"
   },
@@ -1576,9 +1576,9 @@ L1_1 = {
       pageKey = "w-2-k"
     },
     name = "page_11",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "6E1260A6-7521-47F6-A4F6-C55BDFBD7764",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_11_preview.jpg",
     title = "wedding13x11 11"
   },
@@ -1591,7 +1591,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 584.30432128906,
             x = 0,
             y = 0
@@ -1635,9 +1635,9 @@ L1_1 = {
       pageKey = "w-3-e"
     },
     name = "page_12",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "C2281098-71A7-4162-A65B-F6A9D51A65D7",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_12_preview.jpg",
     title = "wedding13x11 12"
   },
@@ -1650,7 +1650,7 @@ L1_1 = {
           placeholderType = "photo",
           transform = {
             angle = 0,
-            height = 783,
+            height = 864,
             width = 584.30432128906,
             x = 324.69567871094,
             y = 0
@@ -1694,9 +1694,9 @@ L1_1 = {
       pageKey = "w-3-f"
     },
     name = "page_13",
-    pageHeight = 783,
+    pageHeight = 864,
     pageId = "F638F200-B6FD-412C-9DFF-060D99A10187",
-    pageWidth = 909,
+    pageWidth = 1152,
     previewName = "page_13_preview.jpg",
     title = "wedding13x11 13"
   }

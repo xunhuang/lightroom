@@ -1,12 +1,12 @@
 Tested on Lightroom Classic CC 8.1 for MacOS
 
-The following hijacks layout template for 13x11-blurb (large scape) and use
-that to fit the 16x12 canvas. Two steps:
+The following hijacks layout template for 13x11-blurb (large landscape) and 
+adjust forthe 16x12 canvas. Two steps:
 
-1) Change the canvas size for the layout_template_sizes.lua file
-2) Change the page sizes for each layout. Only the size of each page have
+- Change the canvas size for the layout_template_sizes.lua file
+- Change the page dimensions for each layout. Only the size of each page have
 changed, the individual layout are most certainly off (except for a few full
-size ones)
+sized ones)
 
 cd /Applications/Adobe\ Lightroom\ Classic\ CC/Adobe\ Lightroom\ Classic\ CC.app/Contents/PlugIns/layout_toolkit.agmodule/Contents/Resources
 

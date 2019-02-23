@@ -1,0 +1,12 @@
+s = {
+	id = "A04372C6-5888-4C3B-9098-81D29DA2B34D",
+	internalName = "clean12x12",
+	title = "clean12x12",
+	type = "layoutStyle",
+	value = {
+		paperId = "12x12-blurb",
+		resources = "clean12x12",
+		styleName = "clean",
+		templateId = "4DCDC407-666C-4B02-8AE1-25BCFE5063AE",
+	},
+}

@@ -65,12 +65,28 @@ s = {
     defaultPaperType = "premium_lustre",
     id = "13x11-blurb"
   },
+  --[[ original
   {
     width = 855,
     height = 864,
     directory = "12x12-blurb",
     title = ZSTR("$$$/Layout/TemplateSizes/12x12=Large Square"),
     title_metric = ZSTR("$$$/Layout/TemplateSizes/12x12_metric=Large Square 30x30 cm"),
+    sizeStr = ZSTR("$$$/Layout/TemplateSizes/Dimensions/12x12=12 x 12 in (30 x 30 cm)"),
+    imageWrap = true,
+    softcover = false,
+    dustJacket = true,
+    defaultPaperType = "premium_lustre",
+    id = "12x12-blurb"
+  },
+  --]]
+  {
+    width = 1008,
+    height = 792,
+    directory = "12x12-blurb",
+    title = ZSTR("$$$/Layout/TemplateSizes/12x12=Large Square"),
+    title_metric = ZSTR("$$$/Layout/TemplateSizes/12x12_metric=Wilson Photobook landscape 14x11 in"),
+
     sizeStr = ZSTR("$$$/Layout/TemplateSizes/Dimensions/12x12=12 x 12 in (30 x 30 cm)"),
     imageWrap = true,
     softcover = false,

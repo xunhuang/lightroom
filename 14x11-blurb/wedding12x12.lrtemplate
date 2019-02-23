@@ -1,0 +1,12 @@
+s = {
+	id = "4390BFC1-1B58-4715-8776-3C7251F444C6",
+	internalName = "wedding12x12",
+	title = "wedding12x12",
+	type = "layoutStyle",
+	value = {
+		paperId = "12x12-blurb",
+		resources = "wedding12x12",
+		styleName = "wedding",
+		templateId = "368F0BA0-14E0-43B9-A547-487B8FE0421D",
+	},
+}

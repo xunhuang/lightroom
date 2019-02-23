@@ -1,0 +1,12 @@
+s = {
+	id = "69C6BF0A-6F36-4B34-87BB-ACC2DEF63108",
+	internalName = "wedding13x11",
+	title = "wedding13x11",
+	type = "layoutStyle",
+	value = {
+		paperId = "13x11-blurb",
+		resources = "wedding13x11",
+		styleName = "wedding",
+		templateId = "E93AF320-705C-4BB7-AF0B-EDD5853FC34C",
+	},
+}

@@ -1,0 +1,11 @@
+s = {
+	id = "D8D26647-635F-439B-B91C-A7CDBA5FF8EE",
+	internalName = "basics12x12",
+	title = "basics12x12",
+	type = "layoutStyle",
+	value = {
+		paperId = "12x12-blurb",
+		resources = "basics12x12",
+		templateId = "FC9D328B-EF05-4020-ABFB-7B091C052F59",
+	},
+}

@@ -1,0 +1,12 @@
+s = {
+	id = "C3C6C94E-618E-4EFD-A6A6-93CE8DE9303C",
+	internalName = "portfolio13x11",
+	title = "portfolio13x11",
+	type = "layoutStyle",
+	value = {
+		paperId = "13x11-blurb",
+		resources = "portfolio13x11",
+		styleName = "portfolio",
+		templateId = "CCCBC971-2D0C-4998-97FE-EC124E53F9FA",
+	},
+}

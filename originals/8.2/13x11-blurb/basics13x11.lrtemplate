@@ -1,0 +1,11 @@
+s = {
+	id = "E1003611-F183-4D98-B177-4CA050CBB602",
+	internalName = "basics13x11",
+	title = "basics13x11",
+	type = "layoutStyle",
+	value = {
+		paperId = "13x11-blurb",
+		resources = "basics13x11",
+		templateId = "1A920361-6A21-4696-B2A1-B45233BD511F",
+	},
+}

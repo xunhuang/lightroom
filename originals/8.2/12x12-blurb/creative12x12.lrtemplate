@@ -1,0 +1,11 @@
+s = {
+	id = "083E5156-F74F-496F-8DDD-446CFB214E34",
+	internalName = "creative12x12",
+	title = "creative12x12",
+	type = "layoutStyle",
+	value = {
+		paperId = "12x12-blurb",
+		resources = "creative12x12",
+		templateId = "6785D4EB-2216-4F89-BA64-3995EE9F3AEF",
+	},
+}

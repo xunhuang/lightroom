@@ -1,0 +1,12 @@
+s = {
+	id = "8BDE5DDC-4D38-411D-8F65-B508165B59AE",
+	internalName = "travel12x12",
+	title = "travel12x12",
+	type = "layoutStyle",
+	value = {
+		paperId = "12x12-blurb",
+		resources = "travel12x12",
+		styleName = "travel",
+		templateId = "5FBBEACE-4819-49A4-98E7-2E7913537CE1",
+	},
+}

@@ -25,3 +25,16 @@ cd /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/
 sudo mv custompages13x11-blurb custompages13x11-blurb.orginal
 sudo ln -sf /Users/xhuang/lightroom/custompages16x12-blurb custompages13x11-blurb 
 
+
+---
+
+14x11
+
+
+sudo mv 12x12-blurb 12x12-blurb.original
+sudo ln -sf /Users/xhuang/lightroom/14x11-blurb 12x12-blurb
+
+cd /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/12x12-blurb/
+
+mv custompages12x12-blurb custompages12x12-blurb.original
+ln -sf /Users/xhuang/lightroom/custompages14x11-blurb custompages12x12-blurb

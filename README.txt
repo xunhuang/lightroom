@@ -21,20 +21,21 @@ sudo ln -sf /Users/xhuang/lightroom/16x12-blurb 13x11-blurb
 start from a slightly messy template (due to canvas size change), visually fix
 it, and then save it as custom page for you.
 
+mkdir -p /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/13x11-blurb/
 cd /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/13x11-blurb/
-sudo mv custompages13x11-blurb custompages13x11-blurb.orginal
-sudo ln -sf /Users/xhuang/lightroom/custompages16x12-blurb custompages13x11-blurb 
+mv custompages13x11-blurb custompages13x11-blurb.orginal
+ln -sf /Users/xhuang/lightroom/custompages16x12-blurb custompages13x11-blurb 
 
 
 ---
 
 14x11
 
-
+cd /Applications/Adobe\ Lightroom\ Classic\ CC/Adobe\ Lightroom\ Classic\ CC.app/Contents/PlugIns/layout_toolkit.agmodule/Contents/Resources
 sudo mv 12x12-blurb 12x12-blurb.original
 sudo ln -sf /Users/xhuang/lightroom/14x11-blurb 12x12-blurb
 
+mkdir -p  /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/12x12-blurb/
 cd /Users/xhuang/Library/Application\ Support/Adobe/Lightroom/Layout\ Templates/12x12-blurb/
-
 mv custompages12x12-blurb custompages12x12-blurb.original
 ln -sf /Users/xhuang/lightroom/custompages14x11-blurb custompages12x12-blurb

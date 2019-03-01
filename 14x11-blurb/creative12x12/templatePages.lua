@@ -5873,7 +5873,7 @@ L1_1 = {
     name = "page_41",
     pageHeight = 792,
     pageId = "C7F1CCB6-4946-4EDD-A4BF-D5886EB27401",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_41_preview.jpg",
     title = "Creative12x12B 41"
   }

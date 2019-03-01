@@ -3904,7 +3904,7 @@ L1_1 = {
           transform = {
             angle = 0,
             height = 792,
-            width = 1710,
+            width = 2016,
             x = 0,
             y = 0
           },
@@ -3922,7 +3922,7 @@ L1_1 = {
     name = "page_56",
     pageHeight = 792,
     pageId = "3583CDBF-D99A-449D-B495-5B52540204B0",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_56_preview.jpg",
     title = "basics12x12 56"
   },
@@ -3954,7 +3954,7 @@ L1_1 = {
     name = "page_57",
     pageHeight = 792,
     pageId = "4DB856F0-D2DC-4071-8A33-45319A28430F",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_57_preview.jpg",
     title = "basics12x12 57"
   },
@@ -4000,7 +4000,7 @@ L1_1 = {
     name = "page_58",
     pageHeight = 792,
     pageId = "CABAA176-153A-4B3C-9B3E-518EF1E64CED",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_58_preview.jpg",
     title = "basics12x12 58"
   },

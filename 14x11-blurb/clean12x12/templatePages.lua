@@ -1228,7 +1228,7 @@ L1_1 = {
     name = "page_25",
     pageHeight = 792,
     pageId = "D1EFDD95-7953-4E00-BCB5-CED9CF1C0ADA",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_25_preview.jpg",
     title = "clean12x12 25"
   },
@@ -1274,7 +1274,7 @@ L1_1 = {
     name = "page_26",
     pageHeight = 792,
     pageId = "8C1E95B7-4080-4DD2-90D7-1159B9CC0B2C",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_26_preview.jpg",
     title = "clean12x12 26"
   },
@@ -1320,7 +1320,7 @@ L1_1 = {
     name = "page_27",
     pageHeight = 792,
     pageId = "53E00DCD-FCD7-481A-9553-74BF13CC4063",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_27_preview.jpg",
     title = "clean12x12 27"
   },
@@ -1366,7 +1366,7 @@ L1_1 = {
     name = "page_28",
     pageHeight = 792,
     pageId = "C2764B52-A5AC-4467-A296-909F2778A49A",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_28_preview.jpg",
     title = "clean12x12 28"
   },
@@ -1412,7 +1412,7 @@ L1_1 = {
     name = "page_29",
     pageHeight = 792,
     pageId = "896E8311-CB50-4FC5-ACD5-CD9656A7AB42",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_29_preview.jpg",
     title = "clean12x12 29"
   },
@@ -1472,7 +1472,7 @@ L1_1 = {
     name = "page_30",
     pageHeight = 792,
     pageId = "DA2ED1ED-D01F-4C74-83CD-0D78EF295848",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_30_preview.jpg",
     title = "clean12x12 30"
   },
@@ -1532,7 +1532,7 @@ L1_1 = {
     name = "page_31",
     pageHeight = 792,
     pageId = "2627ED8F-F459-4072-836D-6F6FBFBF217F",
-    pageWidth = 1710,
+    pageWidth = 2016,
     previewName = "page_31_preview.jpg",
     title = "clean12x12 31"
   }
